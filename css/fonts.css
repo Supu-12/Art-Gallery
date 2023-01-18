@@ -1,0 +1,54 @@
+/* font-family:Abel */
+
+@font-face {
+    font-family: Abel;
+    src: url('../Fonts/Abel/Abel-Regular.ttf')
+}
+
+
+/* font-family:Anton */
+
+@font-face {
+    font-family: Anton;
+    src: url('../Fonts/Anton/Anton-Regular.ttf')
+}
+
+
+/* font-family:Bona_Nova */
+
+@font-face {
+    font-family: Bona_Nova;
+    src: url('../Fonts/Bona_Nova/BonaNova-Bold.ttf')
+}
+
+
+/* font-family:Fuggles */
+
+@font-face {
+    font-family: Fuggles;
+    src: url('../Fonts/Fuggles/Fuggles-Regular.ttf')
+}
+
+
+/* font-family:Josefin_Sans */
+
+@font-face {
+    font-family: Josefin_Sans;
+    src: url('../Fonts/Josefin_Sans/')
+}
+
+
+/* font-family:Livvic */
+
+@font-face {
+    font-family: Livvic;
+    src: url('../Fonts/Livvic/Livvic-Black.ttf')
+}
+
+
+/* font-family:Open_Sans */
+
+@font-face {
+    font-family: Open_Sans;
+    src: url('../fonts/Open_Sans/OpenSans-BoldItalic.ttf')
+}
